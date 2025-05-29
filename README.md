@@ -11,17 +11,19 @@
 
 ### 🚀 About Me
 
-- 💼 I’m currently working on multiple **full-stack web projects**
-- 🌱 I’m constantly learning and improving my skills in **software architecture, APIs and scalable systems**
-- 🔍 Interested in **backend development, databases, cloud infrastructure and performance optimization**
-- 📫 Reach me at: **lucasfleandro.biz@gmail.com**
-- 💡 Fun fact: I love building things from scratch and optimizing every line of code
+- 💼 I'm currently focusing on **backend development projects** using a variety of modern technologies  
+- 🌱 I'm constantly learning and improving my skills in **software architecture, APIs, databases, and cloud deployment**  
+- 🔍 Particularly interested in **backend engineering**, performance, scalability, and clean code  
+- 📫 Reach me at: **lucasfleandro.biz@gmail.com**  
+- 💡 Fun fact: I love building things from scratch and optimizing every line of code  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -40,12 +42,4 @@
   <a href="mailto:lucasfleandro.biz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasfl&layout=compact&theme=radical" alt="lucasfariasleandro" />
 </p>
