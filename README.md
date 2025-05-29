@@ -14,7 +14,7 @@
 - 💼 I’m currently working on multiple **full-stack web projects**
 - 🌱 I’m constantly learning and improving my skills in **software architecture, APIs and scalable systems**
 - 🔍 Interested in **backend development, databases, cloud infrastructure and performance optimization**
-- 📫 Reach me at: **lucasfariasleandro@gmail.com**
+- 📫 Reach me at: **lucasfleandro.biz@gmail.com**
 - 💡 Fun fact: I love building things from scratch and optimizing every line of code
 
 ---
@@ -31,24 +31,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🔗 Let's Connect
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=olucasfl&show_icons=true&theme=radical" alt="lucasfariasleandro" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasfl&layout=compact&theme=radical" alt="lucasfariasleandro" />
+<p>
+  <a href="https://www.linkedin.com/in/lucas-farias-18950a2b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasfleandro.biz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 📊 Most Used Languages
 
-<p>
-  <a href="https://github.com/olucasfl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:lucasfariasleandro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasfl&layout=compact&theme=radical" alt="lucasfariasleandro" />
 </p>
