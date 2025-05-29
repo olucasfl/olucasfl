@@ -14,8 +14,7 @@
 - 💼 I'm currently focusing on **backend development projects** using a variety of modern technologies  
 - 🌱 I'm constantly learning and improving my skills in **software architecture, APIs, databases, and cloud deployment**  
 - 🔍 Particularly interested in **backend engineering**, performance, scalability, and clean code  
-- 📫 Reach me at: **lucasfleandro.biz@gmail.com**  
-- 💡 Fun fact: I love building things from scratch and optimizing every line of code  
+- 📫 Reach me at: **lucasfleandro.biz@gmail.com**   
 
 ---
 
