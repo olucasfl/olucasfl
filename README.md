@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Farias Leandro</h1>
-<h3 align="center">A passionate Full Stack Developer focused on building modern, efficient and scalable web applications</h3>
+<h3 align="center">A dedicated Back-End Developer passionate about designing and building reliable, scalable, and high-performance software systems.</h3>
 
 <p align="center">
   <a href="https://github.com/olucasfl">
