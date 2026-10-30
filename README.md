@@ -38,7 +38,7 @@
 ### 🔗 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/lucas-farias-18950a2b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasfariasdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lucasfleandro.biz@gmail.com" target="_blank">
